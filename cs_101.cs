@@ -1,5 +1,5 @@
 ﻿namespace kodluyoruzRepo;
-class variables_and_data_types
+class cs101
 {
     static void Main(string[] args)
     {
