@@ -1,0 +1,15 @@
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\bin\Debug\net7.0\kodluyoruzRepo.exe
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\bin\Debug\net7.0\kodluyoruzRepo.deps.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\bin\Debug\net7.0\kodluyoruzRepo.runtimeconfig.json
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\bin\Debug\net7.0\kodluyoruzRepo.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\bin\Debug\net7.0\kodluyoruzRepo.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.csproj.AssemblyReference.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.AssemblyInfoInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.AssemblyInfo.cs
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.csproj.CoreCompileInputs.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\refint\kodluyoruzRepo.dll
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.pdb
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\kodluyoruzRepo.genruntimeconfig.cache
+C:\Users\thwisse\Documents\myDesktop\computerScience\Programming\C# Programming\kodluyoruz\kodluyoruzRepo\obj\Debug\net7.0\ref\kodluyoruzRepo.dll
