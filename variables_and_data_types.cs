@@ -3,6 +3,8 @@ class variables_and_data_types
 {
     static void Main(string[] args)
     {
+        //////////// Variables and Data Types
+
         DateTime dt = DateTime.Now;
 
         Console.WriteLine(dt);     /// 23.04.2023 13:45:45
@@ -15,7 +17,11 @@ class variables_and_data_types
 
         Console.WriteLine(hour);    /// 13:48
 
-        
+        Console.WriteLine("------------------------");
+
+
+
+
 
         Console.ReadKey();
     }
